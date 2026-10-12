@@ -13,3 +13,4 @@
 -Mylez-exclusive
 -Robin, Lesaana
 -Glorious kamau
+-Solomon, Njiiri
